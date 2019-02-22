@@ -1,0 +1,58 @@
+*{
+	padding:0px;
+	margin:0px;
+	
+}
+
+
+.nav-wrapper .brand-logo img {
+    height: 100px !important;
+}
+
+.nav-wrapper input[type="search"] {
+  height: 64px !important; /* or height of nav */
+}
+
+
+#pagination{
+	margin-top:40px;
+}
+
+#popular_post .collection .collection-item{
+	background:#F5F5F5 !important;
+	
+}
+#popular_post .collection .collection-item a{
+	color:#009688  !important;
+	
+}
+#popular_post .collection{
+	border:none !important;
+}
+
+#single_image{
+	width:100%;
+	height:400px;
+	margin-top:30px;
+}
+
+.page-footer{
+	margin-top:50px;
+}
+
+.page-footer .input-field input[type=email] {
+     border-bottom: 1px solid #fff;
+}
+
+ .page-footer .input-field input[type=email]:focus {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #fff;
+	 color: #fff;
+   }
+   
+
+
+
+	
+
+ 
