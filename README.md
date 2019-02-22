@@ -10,3 +10,5 @@ Note : remember to upload Gmail smtp details in admin function.php
 
 ![alt tag](https://github.com/rahul-connect/programeek/blob/master/Home%20Page%20Image.png?raw=true "Description goes here")
 
+![alt tag](https://github.com/rahul-connect/programeek/blob/master/Blog%20Post%20Image.png?raw=true "Description goes here")
+
