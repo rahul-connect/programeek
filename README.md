@@ -8,4 +8,4 @@ passwrod - admin
 
 Note : remember to upload Gmail smtp details in admin function.php
 
-https://github.com/rahul-connect/programeek/blob/master/Home%20Page%20Image.png
+![alt text](Home Page Image.png "Description goes here")
